@@ -17,7 +17,7 @@ In this course we explore how societal issues of ethics, fairness, responsibilit
 
 **Canvas Site:** Go [here](https://canvas.uchicago.edu/courses/41966)
 
-**Offline/Asynchronous discussion:** We will use [Campuswire](https://campuswire.com/c/GF98AE2F7/feed) for offline discussion. You can think of Campuswire as Piazza or Ed. If you need to discuss a private matter then send me an email instead.
+**Offline/Asynchronous discussion:** We will use [Campuswire](https://campuswire.com/c/G43266B62/feed) for offline discussion. You can think of Campuswire as Piazza or Ed. If you need to discuss a private matter then send me an email instead.
  
 ### Schedule
 
@@ -27,10 +27,10 @@ The schedule includes lecture topics, readings, as well as the dates where all a
 
 ### Grading
 
-- **Programming Assignments (7 in total. 9% each. Total 63%).** The programming assignments are an important component of your grade. You can find the tentative release dates in the schedule. You work on these individually. Your grade is based on the deliverables and a quiz delivered via gradescope.
-- **Reading Responses (7 in total. 2% each. Total 14%)** We will assign readings each week. At the end of the week we will ask a question about the readings and ask you to provide a brief answer.
-- **Issue Report (20%)** This is the most open-ended assignment of the class. You will be in charge of identifying a data science result published in some form (news article, research paper, technical report, etc) and reproduce the results, identifying any potential problems related to the topics we cover in the class. Your goal is to present the original result, your strategy to reproduce it, any problems you found, any recommendations you make based on those. The project will be graded based on the correctness and completeness of the analysis, as well as based on a short report summarizing the results.  
-- **Class Participation (3%).** *A small part of your grade comes from participation. If your grade ends up on a border between two grades (e.g. B+ and A-) this can sway your grade. Participation can be earned in several ways: i) being active on Campuswire, i.e., answering and commenting on questions (asking questions on Campuswire does not count) ii) actively engaging in discussion and asking questions in class.*
+- **Programming Assignments (6 in total. 5 of them are worth 10%. One of them is worth 20%. Total 70%).** The programming assignments are the most important component of your grade. You can find the tentative release dates in the schedule. You work on these individually. Your grade is based on the deliverables and a quiz delivered via gradescope.
+- **Reading Responses (7 in total. 2% each. Total 14%)** We will assign readings each week. At the end of the week we will ask a question about the readings and ask you to provide a brief answer. There are two dedicated discussion sections throughout the quarter where we will discuss the most interesting reading responses.
+- **Issue Report (13%)** This is an open-ended assignment. You will identify a data science result published in some form (news article, research paper, technical report, etc) and reproduce the results, identifying any potential problems related to the topics we cover in the class. Your goal is to present the original result, your strategy to reproduce it, any problems you found, any recommendations you make based on those. The project will be graded based on the correctness and completeness of the analysis, as well as based on a short report summarizing the results. We will provide a rubric to help you guide your work.
+- **Class Participation (3%).** A small part of your grade comes from participation. If your grade ends up on a border between two grades (e.g. B+ and A-) this can sway your grade. Participation can be earned in several ways: i) being active on Campuswire, i.e., answering and commenting on questions (asking questions on Campuswire does not count) ii) actively engaging in discussion and asking questions in class.
 
 ### Academic Integrity Policy
 
