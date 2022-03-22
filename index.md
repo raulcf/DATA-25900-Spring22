@@ -32,6 +32,18 @@ The schedule includes lecture topics, readings, as well as the dates where all a
 - **Issue Report (13%)** This is an open-ended assignment. You will identify a data science result published in some form (news article, research paper, technical report, etc) and reproduce the results, identifying any potential problems related to the topics we cover in the class. Your goal is to present the original result, your strategy to reproduce it, any problems you found, any recommendations you make based on those. The project will be graded based on the correctness and completeness of the analysis, as well as based on a short report summarizing the results. We will provide a rubric to help you guide your work.
 - **Class Participation (3%).** A small part of your grade comes from participation. If your grade ends up on a border between two grades (e.g. B+ and A-) this can sway your grade. Participation can be earned in several ways: i) being active on Campuswire, i.e., answering and commenting on questions (asking questions on Campuswire does not count) ii) actively engaging in discussion and asking questions in class.
 
+### How to ask questions and seek help
+
+Before posting on Campuswire:
+
+- Make sure you've consulted the documentation and tutorials for the software you are using. If that does not help, make sure you check online, for others who may have faced similar questions. You can use search engines for this, and stackoverflow is a great resources. Last, if your question is not resolved, you can use Campuswire.
+- Aim to ask all questions publicly, so other students can answer them.
+- Staff has limited budget for Campuswire. We will check it ~2 times a day. We will offer additional help during office hours. 
+- Aim to answer question in Campuswire, this will count towards participation in the class.
+- Do not post code directly on Campuswire. And do not post screenshots of the output you obtain.
+- Aim to include all relevant information with your post, so we can help you.
+- We will not answer questions that do not follow the above guidelines.
+
 ### Academic Integrity Policy
 
 The University of Chicago has formal policies related to academic honesty and plagiarism, as described by the university broadly and the college specifically. We abide by these standards in this course. Depending on the severity of the offense, you risk being dismissed altogether from the course. All cases will be referred to the Dean of Students office, which may impose further penalties, including suspension and expulsion. If you have any question about whether some activity would constitute cheating, please feel free to ask. In addition, we expect all students to treat everyone else in the course with respect, following the norms of proper behavior by members of the University of Chicago community. 
