@@ -13,11 +13,11 @@ In this course we explore how societal issues of ethics, fairness, responsibilit
 
 **Prerequisites:** CMSC/DATA 11900
 
-**Office Hours:** You can use office hours to discuss any topic we cover in class. I expect most students will use office hours to discuss their individual projects. Times will be available soon.
+**Office Hours:** You can use office hours to discuss any topic we cover in class. Times will be available soon.
 
-**Canvas Site:** Go [here](https://canvas.uchicago.edu/courses/41966)
+**Canvas Site:** Go [here](https://canvas.uchicago.edu/courses/41966) We use Canvas mostly for announcements. All other relevant information is here.
 
-**Offline/Asynchronous discussion:** We will use [Campuswire](https://campuswire.com/c/G43266B62/feed) for offline discussion. You can think of Campuswire as Piazza or Ed. If you need to discuss a private matter then send me an email instead.
+**Offline/Asynchronous discussion:** We will use [Campuswire](https://campuswire.com/c/G43266B62/feed) for offline discussion. See the expectations on how to use Campuswire below.
  
 ### Schedule
 
