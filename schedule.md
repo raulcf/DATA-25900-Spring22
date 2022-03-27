@@ -11,7 +11,7 @@ Legend:
 
 | #Lecture | Date  |                           Lecture                            |                           Keywords                           | Readings |       Important Dates        |
 | :------: | :---: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: | :--------------------------: |
-|    1     | 03/29 | Course Overview and Introduction to the Data Science Process | Data science lifecycle. Ethics, fairness, responsibility, and privacy issues. |          | *PA0 assigned* *SR assigned* |
+|    1     | 03/29 | Course Overview and Introduction to the Data Science Process | Data science lifecycle. Ethics, fairness, responsibility, and privacy issues. |  **Reading 1:** *[Why Most Published Research Findings Are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124&xid=17259,15700019,15700186,15700190,15700248)* John P. A. Ioannidis, PLOS Medicine. 2005        | *PA0 assigned* *SR assigned* |
 |    2     | 03/31 |              Pitfalls in Inferential Statistics              | Multiple hypothesis, Bonferroni correction, false discovery rate, statistical vs practical significance |          |        *PA1 assigned*        |
 |    3     | 04/05 |                   Data Context and Quality                   |       collection, preparation, cleaning, missing data        |          |                              |
 |    4     | 04/07 |                        Causality 1/2                         |              causal models,  experiments (RCT)               |          |    *PA1 due PA2 assigned*    |
