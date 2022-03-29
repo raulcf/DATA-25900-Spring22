@@ -21,7 +21,7 @@ Legend:
 |    8     | 04/21 |               Machine Learning in the Wild 2/2               | training data, feature engineering, information leakage, concept drift, algorithmic decision making |          |            |
 |    9     | 04/26 |      Fairness and Interpretability in Machine Learning       |                     fairness definitions                     |          |      *PA4 due* *PA5 assigned*             |
 |    10    | 04/28 |                        Discussion 1/2                        | packaging data products, reproducibility, repeatibility, visualization, communication |          |       |
-|    11    | 05/03 |               Visualization and Communication                | packaging data products, reproducibility, repeatibility, visualization, communication |  *PA5 due*   |                              |
+|    11    | 05/03 |               Visualization and Communication                | packaging data products, reproducibility, repeatibility, visualization, communication |     |    *PA5 due*     |
 |    12    | 05/05 |                   Introduction to Privacy                    |             privacy definitions, law, technology             |          |                     |
 |    13    | 05/10 |                        Anonymization                         | data anonymization and deanonymization, k-anonimity, attacks |          |          *PA3 due*           |
 |    14    | 05/12 |                   Statistical Data Privacy                   |              differential privacy, sensitivity               |          |        *PA6 assigned*        |
