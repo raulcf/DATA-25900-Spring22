@@ -17,7 +17,7 @@ Legend:
 |    4     | 04/07 |                        Causality 1/2                         |              causal models,  experiments (RCT)               |          |        |
 |    5     | 04/12 |                        Causality 2/2                         | causal inference from observational data, quasi-experiments  |          |     *PA1 due PA2 assigned*     |
 |    6     | 04/14 |               Experiments with Human Subjects                |       human subjects, AB testing, experimental design        |          |  *PA3 assigned*    |
-|    7     | 04/19 |             Introduction to Machine Learning 1/2             | optimization vs generalization, training and test data, models, learning |  *PA2 due* *PA4 assigned*        |                              |
+|    7     | 04/19 |             Introduction to Machine Learning 1/2             | optimization vs generalization, training and test data, models, learning |        |     *PA2 due* *PA4 assigned*    |
 |    8     | 04/21 |               Machine Learning in the Wild 2/2               | training data, feature engineering, information leakage, concept drift, algorithmic decision making |          |            |
 |    9     | 04/26 |      Fairness and Interpretability in Machine Learning       |                     fairness definitions                     |          |      *PA4 due* *PA5 assigned*             |
 |    10    | 04/28 |                        Discussion 1/2                        | packaging data products, reproducibility, repeatibility, visualization, communication |          |       |
