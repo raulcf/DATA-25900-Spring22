@@ -13,7 +13,7 @@ In this course we explore how societal issues of ethics, fairness, responsibilit
 
 **Prerequisites:** CMSC/DATA 11900
 
-**Office Hours:** You can use office hours to discuss any topic we cover in class. Zhiru: 2-3pm Tuesdays (room will be announced that day in the morning). Raul: 1:30pm - 2:30pm Thursdays in JCL 245.
+**Office Hours:** You can use office hours to discuss any topic we cover in class. Zhiru: 2-3pm Tuesdays (JCL 236). Raul: 1:30pm - 2:30pm Thursdays in JCL 245.
 
 **Canvas Site:** Go [here](https://canvas.uchicago.edu/courses/41966) We use Canvas mostly for announcements. All other relevant information is here.
 
