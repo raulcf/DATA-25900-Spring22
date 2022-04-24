@@ -19,12 +19,12 @@ Legend:
 |    6     | 04/14 |   Causality 2/2       |       human subjects, AB testing, experimental design        |          |     |
 |    7     | 04/19 |             Introduction to Machine Learning 1/2             | optimization vs generalization, training and test data, models, learning |   ***Reading 4***: Nithya Sambasivan et al. [Everyone wants to do the model work, not the data work”: Data Cascades in High-Stakes AI](https://research.google/pubs/pub49953/). *CHI* 2021.     |     *PA2 due* *R3 due* *PA3 assigned* *PA4 assigned* *R4 assigned*   |  
 |    8     | 04/21 |               Machine Learning in the Wild 2/2               | training data, feature engineering, information leakage, concept drift, algorithmic decision making |          |            |
-|    9     | 04/26 |      Fairness and Interpretability in Machine Learning       |                     fairness definitions                     |          |      *PA3 due* *PA5 assigned* *R4 due*            |
+|    9     | 04/26 |      Fairness and Interpretability in Machine Learning       |                     fairness definitions                     |          |      *PA3 due* *R4 due*            |
 |    10    | 04/28 |                        Discussion 1/2                        | packaging data products, reproducibility, repeatibility, visualization, communication |          |       |
-|    11    | 05/03 |               Visualization and Communication                | packaging data products, reproducibility, repeatibility, visualization, communication |     |    *PA5 due*     |
+|    11    | 05/03 |               Visualization and Communication                | packaging data products, reproducibility, repeatibility, visualization, communication |     |    *PA5 assigned*     |
 |    12    | 05/05 |                   Introduction to Privacy                    |             privacy definitions, law, technology             |          |                     |
 |    13    | 05/10 |                        Anonymization                         | data anonymization and deanonymization, k-anonimity, attacks |          |                     |
-|    14    | 05/12 |                   Statistical Data Privacy                   |              differential privacy, sensitivity               |          |      *PA4 due*  *PA6 assigned*        |
+|    14    | 05/12 |                   Statistical Data Privacy                   |              differential privacy, sensitivity               |          |      *PA4 due* *PA5 due* *PA6 assigned*        |
 |    15    | 05/17 |                       Data Lifecycles                        |     provenance, right to be forgotten, data portability      |          |                              |
 |    16    | 05/19 |                         Data Markets                         | data ownership, value of data, data markets, markets for privacy, data brokers |          |          *PA6 due*           |
 |    17    | 05/24 |                         Other topics                         |              data unions, cooperatives, strikes              |          |           *SR due*           |
