@@ -23,8 +23,8 @@ Legend:
 |    10    | 04/28 |                        Discussion 1/2                        | packaging data products, reproducibility, repeatibility, visualization, communication |          |       |
 |    11    | 05/03 |               Visualization and Communication                | packaging data products, reproducibility, repeatibility, visualization, communication |     |    *PA5 assigned*     |
 |    12    | 05/05 |                   Introduction to Privacy                    |             privacy definitions, law, technology             |          |                     |
-|    13    | 05/10 |                        Anonymization                         | data anonymization and deanonymization, k-anonimity, attacks |          |                     |
-|    14    | 05/12 |                   Statistical Data Privacy                   |              differential privacy, sensitivity               |          |      *PA4 due* *PA5 due* *PA6 assigned*        |
+|    13    | 05/10 |                        Anonymization                         | data anonymization and deanonymization, k-anonimity, attacks |          |    *PA5 due*    |
+|    14    | 05/12 |                   Statistical Data Privacy                   |              differential privacy, sensitivity               |          |      *PA4 due* *PA6 assigned*        |
 |    15    | 05/17 |                       Data Lifecycles                        |     provenance, right to be forgotten, data portability      |          |                              |
 |    16    | 05/19 |                         Data Markets                         | data ownership, value of data, data markets, markets for privacy, data brokers |          |          *PA6 due*           |
 |    17    | 05/24 |                         Other topics                         |              data unions, cooperatives, strikes              |          |           *SR due*           |
